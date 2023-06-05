@@ -1,0 +1,28 @@
+#title{
+    text-align: center;
+ }
+ 
+ 
+ #image{
+    max-width: 100% ;
+    height: auto;
+    display: block;
+ 
+
+ }
+ 
+ #img-divv{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ 
+ }
+ #tribte-info{
+    text-align: center;
+ }
+ #tribute-link{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
